@@ -1,0 +1,4 @@
+# Archivos a ignorar en el repositorios.
+
+*.class
+*.bluej
